@@ -1,3 +1,11 @@
+"""
+Instructions:
+The goal is to refactor the program for a coffee machine to an OOP format using the provided classes.
+
+Program Requirements
+The PDF for the program requirements is Coffee_Machine_Program_Requirements.pdf
+"""
+
 from menu import Menu, MenuItem
 from coffee_maker import CoffeeMaker
 from money_machine import MoneyMachine

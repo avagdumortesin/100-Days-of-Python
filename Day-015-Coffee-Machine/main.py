@@ -1,3 +1,11 @@
+"""
+Instructions:
+The goal is to build the program for a coffee machine.
+
+Program Requirements
+The PDF for the program requirements is Coffee_Machine_Program_Requirements.pdf
+"""
+
 from typing import cast
 
 MENU = {

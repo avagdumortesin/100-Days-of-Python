@@ -15,13 +15,13 @@ You can store a reference to a function as a value to a variable. e.g.
 In the starting file, you'll see a dictionary that references each of the mathematical calculations that can be performed by our calculator. Try it out and see if you can get it to perform addition, subtraction, multiplication and division.
 
 PAUSE 1
-TODO: Write out the other 3 functions - subtract, multiply and divide.
+To Do: Write out the other 3 functions - subtract, multiply and divide.
 
 PAUSE 2
-TODO: Add these 4 functions into a dictionary as the values. Keys = "+", "-", "*", "/"
+To Do: Add these 4 functions into a dictionary as the values. Keys = "+", "-", "*", "/"
 
 PAUSE 3
-TODO: Use the dictionary operations to perform the calculations. Multiply 4 * 8 using the dictionary.
+To Do: Use the dictionary operations to perform the calculations. Multiply 4 * 8 using the dictionary.
 
 Functionality
 - Program asks the user to type the first number.

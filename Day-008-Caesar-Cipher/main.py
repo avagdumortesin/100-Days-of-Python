@@ -3,10 +3,10 @@ Instructions:
 Caesar Cipher 1:
 You are going to build an encryption and decryption program using the Caesar cipher (https://en.wikipedia.org/wiki/Caesar_cipher).
 
-TODO-1
+To Do-1
 Create a function called encrypt() that takes original_text and shift_amount as 2 inputs.
 
-TODO-2
+To Do-2
 Inside the 'encrypt' function, shift each letter of the original_text forwards in the alphabet by the shift_amount and print the encrypted text.
 
 You can use the built-in Python index() function to find out the position of an item in a list. e.g.
@@ -23,29 +23,29 @@ Here is the encoded result: ifmmp
 
 Where each of the letters of 'hello' is shifted up by 1.
 
-TODO-3
+To Do-3
 Call the encrypt() function and pass in the user inputs. You should be able to test the code and encrypt a message.
 
-TODO-4:
+To Do-4:
 What happens if you try to shift the letter 'z' forwards by 9? Can you fix the code?
 
 Caesar Cipher 2:
-TODO-1:
+To Do-1:
 Create a function called decrypt() that takes original_text and shift_amount as 2 inputs.
 
-TODO-2:
+To Do-2:
 Inside the decrypt() function, shift each letter of the original_text forwards in the alphabet backwards by the shift_amount and print the decrypted text.
 
-TODO-3:
+To Do-3:
 - Combine the encrypt() and decrypt() functions into a single function called caesar().
 - Use the value of the user chosen direction variable to determine which functionality to use.
 - call the caesar function instead of encrypt/decrypt and pass in all three variables direction/text/shift.
 
 Caesar Cipher 3:
-TODO-1
+To Do-1
 Import and print the logo from art.py when the program starts.
 
-TODO-2
+To Do-2
 What happens if the user enters a number/symbol/space that's not in the List alphabet?
 
 Can you fix the code to keep the number/symbol/space when the text is encoded/decoded?
@@ -55,7 +55,7 @@ e.g.
 original_text = "meet me at 3!"
 cipher_text = "XXXX XX XX 3!"
 
-TODO-3:
+To Do-3:
 Can you figure out a way to restart the cipher program?
 
 e.g.

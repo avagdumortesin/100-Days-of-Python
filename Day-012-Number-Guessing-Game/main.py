@@ -1,3 +1,12 @@
+"""
+Instructions:
+The goal is to build a guess the number game.
+"""
+"""
+Demo from AppBrewery:
+https://appbrewery.github.io/python-day12-demo/
+"""
+
 import random
 
 def select_number():
